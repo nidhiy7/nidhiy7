@@ -40,7 +40,7 @@ I'm a data science enthusiast with a passion for using data to drive meaningful 
 
 - I am a Nephophile⛅
 - I am an Opacarophile🌇
-- I am a Thalassophile🏄🏾‍♂️
+- I am a Stargazer🌟
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on data science projects!
 
@@ -53,6 +53,6 @@ Feel free to reach out to me if you have any questions or if you're interested i
 </p>
   
  
-</p>
+
 
 
