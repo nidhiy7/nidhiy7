@@ -54,27 +54,31 @@ Feel free to reach out to me if you have any questions or if you're interested i
   
 <h1 align="center">Hi, I'm Nidhi Yadav</h1>
 <h2 align="center"> Data Analyst | BI enthusiast  </h2>
-![Cute Girl with Cat](https://cdni.iconscout.com/illustration/premium/thumb/woman-working-from-home-6607088-5517909.png)
 
 
-- I am a **graduate student in Internation Business** at UEL
+- I am a **graduate student in Computer Science **
 - I am a **Data rookie**
 - I like to build  **beautiful data visualization ❤️** and tell **narratives behind**
 - I believe that **"Torture the data and it will confess to anything"**
 - I’m currently learning: **Python and its analytical packages**
 
 
-**Talking about Personal Stuffs:**
+**Fun Fact:**
+- I am a Nephophile⛅
+- I am an Opacarophile🌇
+- I am a Stargazer🌟
 
-- I used to be a Men Physique athlete
-- I'm an **Introverted Minimalist** and lifelong worshiper of calm
-- I am a **pro-solitude addict**
-- I'm a **Plant lover** and **Vegetarian**
-- My hobbies are playing piano, tidying up and handcrafting
-- I also like **literature**, **reading** and **writing** 
-- Especially interested in [Yi Jing](https://en.wikipedia.org/wiki/I_Ching)
+**Connect with Me**
 
-- 📫 How to reach me: **baokhanhdinhtr@gmail.com** 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nidhi-yadav-1a97a81b1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.kaggle.com/nidhiy07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a>
+  <a href="https://medium.com/@nidhiyadav200213" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" /></a>
+</p>
+  
+<h1 align="center">Hi, I'm Nidhi Yadav</h1>
+<h2 align="center"> Data Analyst | BI enthusiast  </h2>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
