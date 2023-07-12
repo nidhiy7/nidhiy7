@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nidhi Yadav</h1>
 <h2 align="center"> Data Analyst | BI enthusiast  </h2>
 
-- I am a **graduate student in Computer Science **
+- I am a **graduate student in Computer Science**
 - I am a **Data rookie**
 - I like to build  **beautiful data visualization ❤️** and tell **narratives behind**
 - I believe that **"Torture the data and it will confess to anything"**
