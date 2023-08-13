@@ -9,8 +9,7 @@
 - I’m currently learning: **Python and its analytical packages**
 
 **Fun Fact:**
-- I am a Nephophile⛅
-- I am an Opacarophile🌇
+
 - I am a Stargazer🌟
 
 **Connect with Me**
