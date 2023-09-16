@@ -1,4 +1,5 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasin83&label=Profile%20views&color=0e75b6&style=flat" alt="sasin83" /> </p>
 <h1 align="center">Hi, I'm Nidhi Yadav</h1>
 <h2 align="center"> Data Analyst | BI enthusiast  </h2>
 
