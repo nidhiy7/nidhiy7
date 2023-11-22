@@ -20,7 +20,7 @@
   <a href="https://www.kaggle.com/nidhiy07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a>
   <a href="https://medium.com/@nidhiyadav200213" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" /></a>
   <a href="https://www.instagram.com/__khus.buu__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
-  <a href="https://www.pinterest.com/YOUR_PINTEREST_USERNAME/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="30" /></a>
+  <a href="https://www.pinterest.com/nidhiy07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="30" /></a>
 </p>
   
 
