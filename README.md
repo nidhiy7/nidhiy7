@@ -3,9 +3,8 @@
 <h2 align="center">Data Analyst | Data Engineer </h2>
 
 - **I am a graduate student in Computer Science**
-- **I am Currently Working as Data Analyst**
-- **Currently learning:
-  - Cloud - Azure, AWS**
+- **I am currently working as Data Analyst**
+- **Currently learning - Azure, AWS**
 
 **Connect with Me**
 
