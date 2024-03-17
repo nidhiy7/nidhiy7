@@ -1,16 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiy7&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiy7" /> </p>
 <h1 align="center">Hi, I'm Nidhi Yadav 👋</h1>
-<h2 align="center">Data Analyst | BI enthusiast</h2>
+<h2 align="center">Data Analyst | Data Engineer </h2>
 
 - **I am a graduate student in Computer Science**
-- **I am a Data rookie**
-- **I like to build beautiful data visualizations ❤️ and tell narratives behind**
-- **I believe that "Torture the data and it will confess to anything"**
-- **I’m currently learning: Python and its analytical packages**
-
-**Fun Fact:**
-
-- I am a Stargazer 🌟
+- **I am Currently Working as Data Analyst**
+- **Currently learning:
+  - Cloud - Azure, AWS**
 
 **Connect with Me**
 
